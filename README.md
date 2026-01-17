@@ -1,4 +1,2 @@
-# rndproj-jyh248ow
-
-Random java project for tools.
-
+# rndproj-jyh248ow\n\nCLI that counts words from stdin.\n
+New-FileDef
