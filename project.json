@@ -1,6 +1,6 @@
 {
-  ""name"": ""rndproj-jyh248ow"",
-  ""goal"": ""CLI validator for reporting"",
-  ""language"": ""go"",
-  ""template"": ""go-service""
+    "name":  "rndproj-jyh248ow",
+    "goal":  "CLI validator for reporting",
+    "language":  "go",
+    "template":  "go-service"
 }
